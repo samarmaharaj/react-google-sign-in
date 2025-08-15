@@ -1,0 +1,5 @@
+{
+  "name": "React Google Sign-In",
+  "description": "A simple and aesthetically pleasing React web application that demonstrates user authentication using Google Sign-In. Users can sign in with their Google account to view a profile card and sign out.",
+  "requestFramePermissions": []
+}
